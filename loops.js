@@ -16,6 +16,6 @@ function whileLoop(n) {
 
 function doWhileLoop(array) {
   do {
-    
+    array.pop()
   }
 }
