@@ -6,3 +6,9 @@ function forLoop(array) {
 }
 return array 
 }
+
+function whileLoop(number) {
+  while ( i = number; i >= 0; i-- ) {
+    console.log(i)
+  }
+}
